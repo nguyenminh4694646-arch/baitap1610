@@ -1,0 +1,9 @@
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\bin\Debug\bt2.exe.config
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\bin\Debug\bt2.exe
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\bin\Debug\bt2.pdb
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.Properties.Resources.resources
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.exe
+C:\Users\ACER\Documents\lập trình.net\baoi kiem tra so 2\bt2\bt2\obj\Debug\bt2.pdb
